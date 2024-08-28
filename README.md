@@ -1,6 +1,6 @@
 # NFL_Team_Statistical_Analysis
 This project focused on NFL Team Data from 2003-2023 which contains statistics about their offenses in that time spam.
-(Dataset Link:https://www.kaggle.com/datasets/nickcantalupa/nfl-team-data-2003-2023)
+(Dataset Link: https://www.kaggle.com/datasets/nickcantalupa/nfl-team-data-2003-2023)
 
 Questions asked:
 - Do passing yards or rushing yards contribute to more points being scored?
